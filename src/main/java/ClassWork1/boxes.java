@@ -11,7 +11,7 @@ public class boxes extends PApplet{
 
     @Override
     public void settings() {
-        size(600, 600);
+        size(700, 600);
     }
 
     @Override
